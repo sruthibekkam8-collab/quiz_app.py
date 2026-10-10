@@ -1,0 +1,5 @@
+=== QUIZ PERFORMANCE REPORT ===
+Student Name: Sruthi
+Score: 5/5
+Percentage: 100.0%
+Status: PASSED
